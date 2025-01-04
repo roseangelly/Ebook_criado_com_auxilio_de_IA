@@ -77,7 +77,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/roseangelly">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
+    <a href="linkedin.com/in/
 rose-angelly-cabral-022059225">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/rose.angelly/profilecard/?igsh=MXZ5bxOTIxeGIndw==/">
