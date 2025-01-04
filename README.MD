@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/capa.png"
+    src="./assets/Capa.png"
     width="400"  
 />
 </p>
