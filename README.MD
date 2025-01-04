@@ -73,7 +73,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="./assets/Foto.png"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspRose Angelly<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/roseangelly">
     GitHub</a>&nbsp;|&nbsp;
