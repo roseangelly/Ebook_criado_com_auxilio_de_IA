@@ -60,7 +60,7 @@ LeonardoAI：
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-## 👨‍💻 Expert
+## 👨‍💻 Aprendiz
 
 <p>
     <img 
@@ -85,4 +85,4 @@ rose-angelly-cabral-022059225">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por uma corredora apaixonada e curiosa no mundo da IA [Rose Angelly](https://github.com/roseangelly)
+⌨️ com ❤️ por uma corredora apaixonada e curiosa no mundo da IA [Rose Angelly](https://github.com/roseangelly)
